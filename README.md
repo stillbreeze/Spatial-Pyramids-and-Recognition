@@ -3,12 +3,12 @@
 -----------------------
 Word maps from bag of words
 
-![BoW word maps](wordmap.png)
+<img src="wordmap.png" width="400">
 
 -----------------------
 
 Filter responses from spatial pyramids
 
-![Filters of spatial pyramids](filter_response.png)
+<img src="filter_response.png" width="400">
 
 -----------------------
